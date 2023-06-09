@@ -2,7 +2,7 @@
 - 👀 I’m interested in full Stack Developer/Engineering  
 - 🌱 I’m currently developing my problem solving skills in Data Structure & Algorithms and my tech stack is Mongoose, Express,  React Js and Node Js.
 - 💞️ I’m looking to collaborate on any who is willing to help me in my long journey  
-- 📫 How to reach me tiktok: @persiius & linkedIn: Paul Sunny Isogon Jr
+- 📫 How to reach me linkedIn: Paul Sunny Isogon Jr
 
 <!---
 Hexx00r/Hexx00r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
