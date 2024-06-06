@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hexx00r
 - 👀 I’m interested in full Stack Developer/Engineering  
-- 🌱 I’m currently developing my problem solving skills in Data Structure & Algorithms and my tech stack is Mongoose, Express,  React Js and Node Js.
+- 🌱 I’m currently developing my problem solving skills in Data Structure & Algorithms and my tech stack is MERN and Spring boot
 - 💞️ I’m looking to collaborate on any who is willing to help me in my long journey  
 - 📫 How to reach me linkedIn: Paul Sunny Isogon Jr
 
