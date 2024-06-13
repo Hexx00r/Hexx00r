@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hexx00r
-- 👀 I’m Self-Taught full Stack Developer
-- 🌱 I’m currently developing my problem solving skills in Data Structure & Algorithms and my tech stack is MERN and Spring boot
+- 👨🏻‍💻 I’m Self-Taught full Stack Developer
+- 🧠 I’m currently developing my problem solving skills in Data Structure & Algorithms and my tech stack is MERN and Spring boot
 - 💞️ I’m looking to collaborate on any who is willing to help me in my long journey  
 - 📫 How to reach me linkedIn: Paul Sunny Isogon Jr
 
