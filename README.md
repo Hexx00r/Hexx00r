@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any who is willing to help me in my long journey  
 - 📫 How to reach me linkedIn: Paul Sunny Isogon Jr
 
-Linkedin:https://www.linkedin.com/in/paul-sunny-isogon-jr-394656255
+Linkedin: https://www.linkedin.com/in/paul-sunny-isogon-jr-394656255
 
 Leetcode: https://leetcode.com/u/xoG0fRo1A8/
 
