@@ -10,7 +10,7 @@ I build end-to-end sales funnels and custom automation systems for trade service
 ## What I Do
 
 - 🏗️ **GoHighLevel Funnel Builds** — Quote calculators, lead capture, appointment booking, pipeline automation
-- ⚙️ **Workflow Automation** — Custom webhooks, API integrations, Make.com pipelines beyond native GHL limits
+- ⚙️ **Workflow Automation** — n8n, custom webhooks, API integrations, Make.com pipelines beyond native GHL limits
 - 🌐 **Full-Stack Development** — JavaScript, Python, REST APIs, React, Node.js
 
 ---
@@ -34,6 +34,7 @@ I build end-to-end sales funnels and custom automation systems for trade service
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-3B82F6?logo=data&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make.com-7B68EE?logo=make&logoColor=white)
 
 ---
