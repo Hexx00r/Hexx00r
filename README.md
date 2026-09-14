@@ -10,19 +10,22 @@ I build end-to-end sales funnels and custom automation systems for trade service
 ## What I Do
 
 - 🏗️ **GoHighLevel Funnel Builds** — Quote calculators, lead capture, appointment booking, pipeline automation
+- ☁️ **Serverless Lead Systems** — Cloudflare Workers + D1 webhook pipelines (multi-client, 24/7, zero-cost)
 - ⚙️ **Workflow Automation** — n8n, custom webhooks, API integrations, Make.com pipelines beyond native GHL limits
-- 🌐 **Full-Stack Development** — JavaScript, Python, REST APIs, React, Node.js
+- 🔍 **Technical SEO** — Prerendering, Schema.org, sitemaps, structured data for static sites
+- 🌐 **Full-Stack Development** — TypeScript, JavaScript, Python, REST APIs, React, Node.js
 
 ---
 
 ## Featured Projects
 
-| Project | Stack | Live Demo |
+| Project | Stack | Live |
 |---|---|---|
-| [Pressure Cleaning Sales Funnel](https://github.com/Hexx00r/pressure-cleaning-funnel) | GoHighLevel, JavaScript, CSS | [View Funnel](https://paulsunnybravery.kimi.page) |
-| [Portfolio Website](https://github.com/Hexx00r/paulsunnyisogon-website) | HTML, CSS, JavaScript | [Live Site](https://paulsunnybravery.kimi.page) |
-| [Invoice Send Tracker](https://github.com/Hexx00r/invoice-send-tracker) | Node.js, TypeScript, Nodemailer | Local demo available |
-| [E-Commerce API](https://github.com/Hexx00r/ecommerce-api-node) | Node.js, Express, MongoDB | REST API with auth & payments |
+| [quote-relay](https://paulsunnydev.com) | Cloudflare Workers, D1, Telegram Bot API, Resend | [See it in action](https://paulsunnydev.com) — every quote on my portfolio flows through it |
+| [agency-starter](https://github.com/Hexx00r/agency-starter) | TypeScript, static build pipeline, GitHub Actions | [Live template](https://hexx00r.github.io/agency-starter) — clone → config → deploy client sites |
+| [Portfolio + SEO Cluster](https://github.com/Hexx00r/paulsunnydev) | React (prerendered SSR), Schema.org, Tailwind | [paulsunnydev.com](https://paulsunnydev.com) — 12+ guides targeting AU pressure-cleaning keywords |
+| [Pressure Cleaning Sales Funnel](https://github.com/Hexx00r/pressure-cleaning-funnel) | GoHighLevel, JavaScript, CSS | Featured case study — Melbourne High Pressure Cleaning |
+| [ghl-service-business-automation](https://github.com/Hexx00r/ghl-service-business-automation) | GoHighLevel workflows, webhooks | Open-source blueprint for trade-service automation |
 
 ---
 
@@ -33,14 +36,15 @@ I build end-to-end sales funnels and custom automation systems for trade service
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-3B82F6?logo=data&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/-Make.com-7B68EE?logo=make&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
 ---
 
 ## Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paul-sunny-isogon-jr-394656255)
-- 🌐 [Portfolio](https://paulsunnybravery.kimi.page)
+- 🌐 [Portfolio](https://paulsunnydev.com)
 - 📧 paulsunnyisogon@gmail.com
